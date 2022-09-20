@@ -2,10 +2,15 @@
   "name": "mytunes-landing-page",
   "version": "1.0.0",
   "description": "Modeled After the iTunes Website",
-  "main": "index.js",
+  "main": "main.js",
+  "homepage": "https://rchadgonzales.github.io/mytunes-landing-page",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Richard Gonzales",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }

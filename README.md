@@ -6,4 +6,4 @@ This project is building a responsive landing page website from scratch without 
 
 ## View the actual project
 
-> https://rchadgonzales.github.io/
+> https://rchadgonzales.github.io/mytunes-landing-page
