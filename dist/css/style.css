@@ -52,6 +52,10 @@ section#entertainment {
   text-align: left;
 }
 
+.gift-cards a:hover {
+  opacity: 0.8;
+}
+
 /* Showcase */
 #showcase {
   margin: 0;
@@ -191,6 +195,9 @@ nav a {
   padding: 10px 0;
   color: #eee;
   text-decoration: none;
+}
+nav a:hover {
+  color: orange;
 }
 nav li:hover {
   background-color: #444;
